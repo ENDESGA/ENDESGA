@@ -1,3 +1,13 @@
 
 ```math
-\ce{$\unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1.; background: black;]{x0000}$}
+\ce{$\unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: black;]{x0000}$}
+
+<style>
+  body {
+    font-family: 'Intel One Mono', monospace;
+  }
+
+  a {
+    color: #f04;
+  }
+</style>
